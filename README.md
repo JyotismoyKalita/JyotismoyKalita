@@ -24,7 +24,7 @@
 
 ### 🧠 Top Projects
 
-- 🔬 [Drug Detection using ML](https://github.com/JyotismoyKalita/DrugDetection-IITG) (Work in progess)
+- 🔬 [Drug Detection and Classification](https://github.com/JyotismoyKalita/DrugDetectClassify-IITG)
 - 📊 [Inventory Management System](https://github.com/JyotismoyKalita/hackdays)
 - 🍉 [Fruit Classification](https://github.com/JyotismoyKalita/FruitClassification)
 
