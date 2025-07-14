@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently pursuing **B.Tech** in **Information Technology** in Gauhati University.
 - 💬 Ask me about: **C/C++, JS/TS, AI/ML, Python, Rust, Web Dev, Git, or IoT**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jyotismoy-kalita/) | [Email](mailto:jyotismoykalita03@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jyotismoy-kalita/) | [Email](mailto:jyotismoykalita@outlook.com)
 - ⚡ Fun fact: *I love playing video games, listening to music and travelling*
 
 ---
