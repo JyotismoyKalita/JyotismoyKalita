@@ -1,3 +1,7 @@
+![Creation of Adam](Images/creation_of_adam.png)
+
+---
+
 <h1 align="center">Hi 👋, I'm Jyotismoy Kalita</h1>
 <h4 align="center">A passionate student and AI/ML, WebDev, Low Level Programming enthusiast from India</h3>
 <p align="center">
@@ -7,12 +11,10 @@
 
 <p align="center">
   <em>
-    <strong style="font-size: 1.5em;">“</strong>
-    The woods are lovely, dark and deep</br>
+    "The woods are lovely, dark and deep</br>
     But I have promises to keep,</br>
     And miles to go before I sleep,</br>
-    And miles to go before I sleep.
-    <strong style="font-size: 1.5em;">”</strong>
+    And miles to go before I sleep."
     </br></br>
     — Robert Frost
   </em>
