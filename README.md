@@ -1,4 +1,4 @@
-<img src="images/Cover.gif" align="center" alt="Header" height="300" width="900"/>
+<img src="images/Cover.gif" alt="Header" height="300" width="900"/>
 
 <h1></h1>
 
