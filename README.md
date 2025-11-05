@@ -1,4 +1,4 @@
-![](Images/Cover.gif)
+<img alt="Cover.gif" src="./Images/Cover.gif" width="1050">
 
 <hr style="border: 0; height: 1px; background-color: #414141ff;">
 
@@ -20,14 +20,14 @@
   </em>
 </p>
 
-<hr style="border: 0; height: 1px; background-color: #414141ff;">
+### 👤 About Me
 
 - 🌱 I’m currently pursuing **B.Tech** in **Information Technology** in Gauhati University.
 - 💬 Ask me about: **C/C++, JS/TS, AI/ML, Python, Rust, Web Dev, Git, or IoT**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jyotismoy-kalita/) | [Email](mailto:jyotismoykalita@outlook.com)
 - ⚡ Fun fact: *I love playing video games, listening to music and travelling*
 
-<hr style="border: 0; height: 1px; background-color: #414141ff;">
+
 
 ### 🛠️ Languages and Tools
 
@@ -42,3 +42,4 @@
 - 🔬 [Drug Detection and Classification](https://github.com/JyotismoyKalita/DrugDetectClassify-IITG)
 - 📊 [Inventory Management System](https://github.com/JyotismoyKalita/hackdays)
 - 🍉 [Fruit Classification](https://github.com/JyotismoyKalita/FruitClassification)
+- 📈 [JLinearRegression](https://github.com/JyotismoyKalita/JLinearRegression)
