@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JyotismoyKalita/JyotismoyKalita/refs/heads/main/Images/Cover.gif" alt="Header" height="300" width="900"/>
+[![MasterHead](Images/Cover.gif)](JyotismoyKalita)
 
 <hr style="border: 0; height: 1px; background-color: #ddd;">
 
@@ -11,7 +11,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/JyotismoyKalita/JyotismoyKalita/blob/main/Images/alone.gif?raw=true" alt="Forest Image" height="140" align="right" />
   <em>
     "The woods are lovely, dark and deep"<br>
     But I have promises to keep,<br>
@@ -20,6 +19,8 @@
     — Robert Frost
   </em>
 </p>
+
+![Alone](Images/alone.gif)
 
 <h3>About Me:</h3>
 
