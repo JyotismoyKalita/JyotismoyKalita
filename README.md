@@ -39,7 +39,9 @@
 
 ### 🧠 Top Projects
 
-- 🔬 [Drug Detection and Classification](https://github.com/JyotismoyKalita/DrugDetectClassify-IITG)
-- 📊 [Inventory Management System](https://github.com/JyotismoyKalita/hackdays)
-- 🍉 [Fruit Classification](https://github.com/JyotismoyKalita/FruitClassification)
-- 📈 [JLinearRegression](https://github.com/JyotismoyKalita/JLinearRegression)
+- 🔬 [Drug Detection and Classification using Logistic Regression](https://github.com/JyotismoyKalita/DrugDetectClassify-IITG)
+- 🍉 [Fruit Classification uisng CNN](https://github.com/JyotismoyKalita/FruitClassification)
+- 📈 [Linear Regression from scratch in C](https://github.com/JyotismoyKalita/JLinearRegression)
+- 💠 [K-means Clustering Visualization in C](https://github.com/JyotismoyKalita/JClusterer)
+- 📊 [AI Powered Inventory Management System](https://github.com/JyotismoyKalita/hackdays)  
+- 🐍 [Terminal-UI Snake game from scratch in C](https://github.com/JyotismoyKalita/JSnake)  
