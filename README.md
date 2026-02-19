@@ -37,11 +37,12 @@
 
 <hr style="border: 0; height: 1px; background-color: #414141ff;">
 
-### 🧠 Top Projects
+### 🧠 Top Repositories
 
 - 🔬 [Drug Detection and Classification using Logistic Regression](https://github.com/JyotismoyKalita/DrugDetectClassify-IITG)
 - 🍉 [Fruit Classification uisng CNN](https://github.com/JyotismoyKalita/FruitClassification)
 - 📈 [Linear Regression from scratch in C](https://github.com/JyotismoyKalita/JLinearRegression)
+- 🚀 [Download Manager using Rust and Tauri with React.js](https://github.com/JyotismoyKalita/JDA)
 - 💠 [K-means Clustering Visualization in C](https://github.com/JyotismoyKalita/JClusterer)
 - 📊 [AI Powered Inventory Management System](https://github.com/JyotismoyKalita/hackdays)  
 - 🐍 [Terminal-UI Snake game from scratch in C](https://github.com/JyotismoyKalita/JSnake)  
