@@ -1,0 +1,204 @@
+<svg width="1200" height="1645" viewBox="0 0 1200 1645"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="1645" rx="24" fill="#050807"/>
+<rect x="8" y="8" width="1184" height="1609" rx="20" fill="none" stroke="#39ff88" stroke-opacity="0.35"/>
+
+<rect width="1200" height="65" rx="24" fill="#0c1110"/>
+<circle cx="42" cy="32" r="11" fill="#ff5f56"/>
+<circle cx="82" cy="32" r="11" fill="#ffbd2e"/>
+<circle cx="122" cy="32" r="11" fill="#27c93f"/>
+
+<text x="180" y="42" fill="#55ff77" font-family="monospace" font-size="24">
+jyotismoy@github:~
+</text>
+
+<!-- JK -->
+<g fill="#39ff5a" font-family="monospace" font-size="24">
+<text x="70" y="150">······██╗··</text>
+<text x="70" y="180">······██║··</text>
+<text x="70" y="210">······██║··</text>
+<text x="70" y="240">······██║··</text>
+<text x="70" y="270">·██···██║··</text>
+<text x="70" y="300">·╚█████╔╝··</text>
+
+<text x="215" y="150">██╗··██╗</text>
+<text x="215" y="180">██║·██╔╝</text>
+<text x="215" y="210">█████╔╝ </text>
+<text x="215" y="240">██╔═██╗ </text>
+<text x="215" y="270">██║··██╗</text>
+<text x="215" y="300">╚═╝··╚═╝</text>
+</g>
+
+<g font-family="monospace">
+<text x="560" y="145" font-size="32" fill="#55ff77">jyotismoy@github</text>
+<text x="560" y="180" font-size="18" fill="#68746f">-------------------------</text>
+
+<text x="560" y="225" fill="#00e5ff" font-size="18">Name</text>
+<text x="700" y="225" fill="#eeeeee" font-size="18">: Jyotismoy Kalita</text>
+
+<text x="560" y="265" fill="#00e5ff" font-size="18">Education</text>
+<text x="700" y="265" fill="#eeeeee" font-size="18">: B.Tech in Information Technology</text>
+
+<text x="560" y="305" fill="#00e5ff" font-size="18">Key Interest</text>
+<text x="700" y="305" fill="#eeeeee" font-size="18">: AI/ML · Low Level Programming</text>
+<text x="720" y="335" fill="#eeeeee" font-size="18">  Full Stack · Research </text>
+
+<text x="560" y="380" fill="#00e5ff" font-size="18">GitHub</text>
+<text x="700" y="380" fill="#eeeeee" font-size="16">: github.com/JyotismoyKalita</text>
+
+<text x="560" y="415" fill="#00e5ff" font-size="18">LinkedIn</text>
+<text x="700" y="415" fill="#eeeeee" font-size="16">: linkedin.com/in/jyotismoy-kalita</text>
+
+<text x="560" y="450" fill="#00e5ff" font-size="18">Email</text>
+<text x="700" y="450" fill="#eeeeee" font-size="16">: jyotismoykalita@outlook.com</text>
+</g>
+
+<line x1="70" y1="510" x2="1130" y2="510" stroke="#23332b"/>
+
+<g font-family="monospace" font-size="18" fill="#eeeeee">
+
+<text x="70" y="560" fill="#ff4fa3">$ ./interests</text>
+
+<!-- Terminal Activity Cards -->
+<g font-family="monospace">
+
+<rect x="70" y="585" width="500" height="72" rx="9" fill="#08110c" stroke="#39ff88" stroke-opacity="0.75"/>
+<circle cx="98" cy="621" r="7" fill="#39ff88"/>
+<text x="120" y="615" font-size="17" font-weight="700" fill="#55ff77">SPEECH PROCESSING</text>
+<text x="120" y="640" font-size="14" fill="#8b9892">ASR · TTS · Speech Recognition</text>
+
+<rect x="600" y="585" width="500" height="72" rx="9" fill="#080d12" stroke="#00e5ff" stroke-opacity="0.75"/>
+<circle cx="628" cy="621" r="7" fill="#00e5ff"/>
+<text x="650" y="615" font-size="17" font-weight="700" fill="#00e5ff">IMAGE PROCESSING</text>
+<text x="650" y="640" font-size="14" fill="#8b9892">Images · Representation · Deep Learning</text>
+
+<rect x="70" y="672" width="500" height="72" rx="9" fill="#10090e" stroke="#ff4fa3" stroke-opacity="0.75"/>
+<circle cx="98" cy="708" r="7" fill="#ff4fa3"/>
+<text x="120" y="702" font-size="17" font-weight="700" fill="#ff6db3">NATURAL LANGUAGE PROCESSING</text>
+<text x="120" y="727" font-size="14" fill="#8b9892">NLP · Multilingual AI · Language Models</text>
+
+<rect x="600" y="672" width="500" height="72" rx="9" fill="#100d07" stroke="#ffcc00" stroke-opacity="0.75"/>
+<circle cx="628" cy="708" r="7" fill="#ffcc00"/>
+<text x="650" y="702" font-size="17" font-weight="700" fill="#ffcc00">COMPUTER VISION</text>
+<text x="650" y="727" font-size="14" fill="#8b9892">Classification · Detection · Visual AI</text>
+
+<rect x="70" y="759" width="500" height="72" rx="9" fill="#0b0b13" stroke="#a970ff" stroke-opacity="0.75"/>
+<circle cx="98" cy="795" r="7" fill="#a970ff"/>
+<text x="120" y="789" font-size="17" font-weight="700" fill="#b98aff">LOW-LEVEL PROGRAMMING</text>
+<text x="120" y="814" font-size="14" fill="#8b9892">C · C++ · Rust · Systems</text>
+
+<rect x="600" y="759" width="500" height="72" rx="9" fill="#07100e" stroke="#34d399" stroke-opacity="0.75"/>
+<circle cx="628" cy="795" r="7" fill="#34d399"/>
+<text x="650" y="789" font-size="17" font-weight="700" fill="#34d399">FULL STACK DEVELOPMENT</text>
+<text x="650" y="814" font-size="14" fill="#8b9892">React · Next.js · APIs · Web Systems</text>
+
+</g>
+
+<line x1="70" y1="875" x2="1130" y2="875" stroke="#23332b"/>
+
+<text x="70" y="915" fill="#ff4fa3">$ cat tools.txt</text>
+
+<!-- Technology chips -->
+<g font-family="monospace" font-size="16" font-weight="600">
+
+<!-- Row 1 -->
+<rect x="95" y="945" width="108" height="34" rx="7" fill="#3776ab"/>
+<text x="149" y="968" text-anchor="middle" fill="#ffffff">Python</text>
+
+<rect x="215" y="945" width="70" height="34" rx="7" fill="#276dc3"/>
+<text x="250" y="968" text-anchor="middle" fill="#ffffff">R</text>
+
+<rect x="297" y="945" width="108" height="34" rx="7" fill="#b7410e"/>
+<text x="351" y="968" text-anchor="middle" fill="#ffffff">Rust</text>
+
+<rect x="417" y="945" width="70" height="34" rx="7" fill="#00599c"/>
+<text x="452" y="968" text-anchor="middle" fill="#ffffff">C</text>
+
+<rect x="499" y="945" width="90" height="34" rx="7" fill="#004482"/>
+<text x="544" y="968" text-anchor="middle" fill="#ffffff">C++</text>
+
+<rect x="601" y="945" width="145" height="34" rx="7" fill="#f0db4f"/>
+<text x="673" y="968" text-anchor="middle" fill="#111111">JavaScript</text>
+
+<rect x="758" y="945" width="130" height="34" rx="7" fill="#3178c6"/>
+<text x="823" y="968" text-anchor="middle" fill="#ffffff">TypeScript</text>
+
+<!-- Row 2 -->
+<rect x="95" y="995" width="120" height="34" rx="7" fill="#ee4c2c"/>
+<text x="155" y="1018" text-anchor="middle" fill="#ffffff">PyTorch</text>
+
+<rect x="227" y="995" width="135" height="34" rx="7" fill="#ff8f00"/>
+<text x="294" y="1018" text-anchor="middle" fill="#111111">TensorFlow</text>
+
+<rect x="374" y="995" width="142" height="34" rx="7" fill="#ffd21e"/>
+<text x="445" y="1018" text-anchor="middle" fill="#111111">HuggingFace</text>
+
+<rect x="528" y="995" width="142" height="34" rx="7" fill="#f7931e"/>
+<text x="599" y="1018" text-anchor="middle" fill="#ffffff">scikit-learn</text>
+
+<rect x="682" y="995" width="105" height="34" rx="7" fill="#150458"/>
+<text x="734" y="1018" text-anchor="middle" fill="#ffffff">Pandas</text>
+
+<rect x="799" y="995" width="105" height="34" rx="7" fill="#4dabcf"/>
+<text x="851" y="1018" text-anchor="middle" fill="#ffffff">NumPy</text>
+
+<!-- Row 3 -->
+<rect x="95" y="1045" width="102" height="34" rx="7" fill="#111111" stroke="#555555"/>
+<text x="146" y="1068" text-anchor="middle" fill="#ffffff">Next.js</text>
+
+<rect x="209" y="1045" width="105" height="34" rx="7" fill="#20232a"/>
+<text x="261" y="1068" text-anchor="middle" fill="#61dafb">React</text>
+
+<rect x="326" y="1045" width="105" height="34" rx="7" fill="#68a063"/>
+<text x="378" y="1068" text-anchor="middle" fill="#ffffff">Node.js</text>
+
+<rect x="443" y="1045" width="92" height="34" rx="7" fill="#111111" stroke="#666666"/>
+<text x="489" y="1068" text-anchor="middle" fill="#ffffff">Flask</text>
+
+<rect x="547" y="1045" width="112" height="34" rx="7" fill="#009688"/>
+<text x="603" y="1068" text-anchor="middle" fill="#ffffff">FastAPI</text>
+
+<rect x="671" y="1045" width="80" height="34" rx="7" fill="#f05032"/>
+<text x="711" y="1068" text-anchor="middle" fill="#ffffff">Git</text>
+
+<rect x="763" y="1045" width="112" height="34" rx="7" fill="#24292f"/>
+<text x="819" y="1068" text-anchor="middle" fill="#ffffff">GitHub</text>
+
+</g>
+
+<line x1="70" y1="1120" x2="1130" y2="1120" stroke="#23332b"/>
+
+<!-- Project directory tree -->
+<g font-family="monospace" font-size="18" fill="#eeeeee">
+
+<text x="70" y="1165" fill="#ffcc00">$ ls top_projects/</text>
+
+<!-- AI -->
+<text x="95" y="1205" fill="#55ff77">├── AI/</text>
+<text x="135" y="1240" fill="#8b9892">├── Coral Reef Classification using Advanced ML Techniques</text>
+<text x="135" y="1275" fill="#8b9892">├── Drug Detection and Classification</text>
+<text x="135" y="1310" fill="#8b9892">└── Bengali Timestamped-Transcription Pipeline</text>
+
+<!-- Web -->
+<text x="95" y="1350" fill="#00e5ff">├── Web/</text>
+<text x="135" y="1385" fill="#8b9892">├── InvenTrack - AI Powered Inventory Management</text>
+<text x="135" y="1420" fill="#8b9892">└── Bug Bounty Competition Platform</text>
+
+<!-- Low Level -->
+<text x="95" y="1460" fill="#a970ff">└── LowLevel/</text>
+<text x="135" y="1495" fill="#8b9892">├── JDA - Rust Download Accelerator</text>
+<text x="135" y="1530" fill="#8b9892">└── JSnake - Terminal Snake Game</text>
+
+</g>
+
+<!-- Final shell prompt -->
+<text x="70" y="1595" fill="#55ff77" font-family="monospace" font-size="20">
+jyotismoy@github:~$
+</text>
+
+<rect x="300" y="1575" width="12" height="22" fill="#55ff77">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>
