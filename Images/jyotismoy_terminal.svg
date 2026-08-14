@@ -178,17 +178,18 @@ jyotismoy@github:~
 <text x="95" y="1205" fill="#55ff77">├── AI/</text>
 <text x="135" y="1240" fill="#8b9892">├── Coral Reef Classification using Advanced ML Techniques</text>
 <text x="135" y="1275" fill="#8b9892">├── Drug Detection and Classification</text>
-<text x="135" y="1310" fill="#8b9892">└── Bengali Timestamped-Transcription Pipeline</text>
+<text x="135" y="1310" fill="#8b9892">├── Brajavali ASR using Transfer Learning</text>
+<text x="135" y="1345" fill="#8b9892">└── Bengali Timestamped-Transcription Pipeline</text>
 
 <!-- Web -->
-<text x="95" y="1350" fill="#00e5ff">├── Web/</text>
-<text x="135" y="1385" fill="#8b9892">├── InvenTrack - AI Powered Inventory Management</text>
-<text x="135" y="1420" fill="#8b9892">└── Bug Bounty Competition Platform</text>
+<text x="95" y="1385" fill="#00e5ff">├── Web/</text>
+<text x="135" y="1420" fill="#8b9892">├── InvenTrack - AI Powered Inventory Management</text>
+<text x="135" y="1455" fill="#8b9892">└── Bug Bounty Competition Platform</text>
 
 <!-- Low Level -->
-<text x="95" y="1460" fill="#a970ff">└── LowLevel/</text>
-<text x="135" y="1495" fill="#8b9892">├── JDA - Rust Download Accelerator</text>
-<text x="135" y="1530" fill="#8b9892">└── JSnake - Terminal Snake Game</text>
+<text x="95" y="1495" fill="#a970ff">└── LowLevel/</text>
+<text x="135" y="1530" fill="#8b9892">├── JDA - Rust Download Accelerator</text>
+<text x="135" y="1565" fill="#8b9892">└── JSnake - Terminal Snake Game</text>
 
 </g>
 
