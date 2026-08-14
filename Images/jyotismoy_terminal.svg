@@ -63,32 +63,32 @@ jyotismoy@github:~
 <!-- Terminal Activity Cards -->
 <g font-family="monospace">
 
-<rect x="70" y="585" width="500" height="72" rx="9" fill="#08110c" stroke="#39ff88" stroke-opacity="0.75"/>
+<rect x="70" y="585" width="500" height="72" rx="9" fill="#1e3629" stroke="#39ff88" stroke-opacity="0.75"/>
 <circle cx="98" cy="621" r="7" fill="#39ff88"/>
 <text x="120" y="615" font-size="17" font-weight="700" fill="#55ff77">SPEECH PROCESSING</text>
 <text x="120" y="640" font-size="14" fill="#8b9892">ASR · TTS · Speech Recognition</text>
 
-<rect x="600" y="585" width="500" height="72" rx="9" fill="#080d12" stroke="#00e5ff" stroke-opacity="0.75"/>
+<rect x="600" y="585" width="500" height="72" rx="9" fill="#1c2630" stroke="#00e5ff" stroke-opacity="0.75"/>
 <circle cx="628" cy="621" r="7" fill="#00e5ff"/>
 <text x="650" y="615" font-size="17" font-weight="700" fill="#00e5ff">IMAGE PROCESSING</text>
 <text x="650" y="640" font-size="14" fill="#8b9892">Images · Representation · Deep Learning</text>
 
-<rect x="70" y="672" width="500" height="72" rx="9" fill="#10090e" stroke="#ff4fa3" stroke-opacity="0.75"/>
+<rect x="70" y="672" width="500" height="72" rx="9" fill="#352731" stroke="#ff4fa3" stroke-opacity="0.75"/>
 <circle cx="98" cy="708" r="7" fill="#ff4fa3"/>
 <text x="120" y="702" font-size="17" font-weight="700" fill="#ff6db3">NATURAL LANGUAGE PROCESSING</text>
 <text x="120" y="727" font-size="14" fill="#8b9892">NLP · Multilingual AI · Language Models</text>
 
-<rect x="600" y="672" width="500" height="72" rx="9" fill="#100d07" stroke="#ffcc00" stroke-opacity="0.75"/>
+<rect x="600" y="672" width="500" height="72" rx="9" fill="#2e281d" stroke="#ffcc00" stroke-opacity="0.75"/>
 <circle cx="628" cy="708" r="7" fill="#ffcc00"/>
 <text x="650" y="702" font-size="17" font-weight="700" fill="#ffcc00">COMPUTER VISION</text>
 <text x="650" y="727" font-size="14" fill="#8b9892">Classification · Detection · Visual AI</text>
 
-<rect x="70" y="759" width="500" height="72" rx="9" fill="#0b0b13" stroke="#a970ff" stroke-opacity="0.75"/>
+<rect x="70" y="759" width="500" height="72" rx="9" fill="#272733" stroke="#a970ff" stroke-opacity="0.75"/>
 <circle cx="98" cy="795" r="7" fill="#a970ff"/>
 <text x="120" y="789" font-size="17" font-weight="700" fill="#b98aff">LOW-LEVEL PROGRAMMING</text>
 <text x="120" y="814" font-size="14" fill="#8b9892">C · C++ · Rust · Systems</text>
 
-<rect x="600" y="759" width="500" height="72" rx="9" fill="#07100e" stroke="#34d399" stroke-opacity="0.75"/>
+<rect x="600" y="759" width="500" height="72" rx="9" fill="#1e2e2a" stroke="#34d399" stroke-opacity="0.75"/>
 <circle cx="628" cy="795" r="7" fill="#34d399"/>
 <text x="650" y="789" font-size="17" font-weight="700" fill="#34d399">FULL STACK DEVELOPMENT</text>
 <text x="650" y="814" font-size="14" fill="#8b9892">React · Next.js · APIs · Web Systems</text>
@@ -176,20 +176,20 @@ jyotismoy@github:~
 
 <!-- AI -->
 <text x="95" y="1205" fill="#55ff77">├── AI/</text>
-<text x="135" y="1240" fill="#8b9892">├── Coral Reef Classification using Advanced ML Techniques</text>
-<text x="135" y="1275" fill="#8b9892">├── Drug Detection and Classification</text>
-<text x="135" y="1310" fill="#8b9892">├── Brajavali ASR using Transfer Learning</text>
-<text x="135" y="1345" fill="#8b9892">└── Bengali Timestamped-Transcription Pipeline</text>
+<text x="135" y="1240" fill="#babebc">├── Coral Reef Classification using Advanced ML Techniques</text>
+<text x="135" y="1275" fill="#babebc">├── Drug Detection and Classification</text>
+<text x="135" y="1310" fill="#babebc">├── Brajavali ASR using Transfer Learning</text>
+<text x="135" y="1345" fill="#babebc">└── Bengali Timestamped-Transcription Pipeline</text>
 
 <!-- Web -->
 <text x="95" y="1385" fill="#00e5ff">├── Web/</text>
-<text x="135" y="1420" fill="#8b9892">├── InvenTrack - AI Powered Inventory Management</text>
-<text x="135" y="1455" fill="#8b9892">└── Bug Bounty Competition Platform</text>
+<text x="135" y="1420" fill="#babebc">├── InvenTrack - AI Powered Inventory Management</text>
+<text x="135" y="1455" fill="#babebc">└── Bug Bounty Competition Platform</text>
 
 <!-- Low Level -->
 <text x="95" y="1495" fill="#a970ff">└── LowLevel/</text>
-<text x="135" y="1530" fill="#8b9892">├── JDA - Rust Download Accelerator</text>
-<text x="135" y="1565" fill="#8b9892">└── JSnake - Terminal Snake Game</text>
+<text x="135" y="1530" fill="#babebc">├── JDA - Rust Download Accelerator</text>
+<text x="135" y="1565" fill="#babebc">└── JSnake - Terminal Snake Game</text>
 
 </g>
 
@@ -202,7 +202,7 @@ jyotismoy@github:~$
 Welcome to my GitHub profile!
 </text>
 
-<rect x="625" y="1590" width="12" height="22" fill="#55ff77">
+<rect x="625" y="1590" width="12" height="22" fill="#ffffff">
 <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
 </g>
